@@ -1,9 +1,16 @@
 <!-- # Getting Started with Create React App -->
 # Getting Started with My Shopping App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
+
+<!-- ## Available Scripts -->
+## Projects Details
+*1
+*2
+*3
+*4
+*5
 
 In the project directory, you can run:
 
