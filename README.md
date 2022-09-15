@@ -6,11 +6,11 @@
 
 <!-- ## Available Scripts -->
 ## Projects Details
-*1
-*2
-*3
-*4
-*5
+* 1
+* 2
+* 3
+* 4
+* 5
 
 In the project directory, you can run:
 
