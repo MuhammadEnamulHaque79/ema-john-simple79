@@ -33,8 +33,13 @@ const Shop = () => {
             </div>
             <div className="cart-container">
                 <Cart cart={cart}></Cart>
+                {/* <h3>Order Summary</h3>
+                <p>Slelected Items :{Cart.length}</p>
+                <p>Total Price :</p>
+                <p>Total Shipping Charge :</p>
+                <p>Tax :</p>
+                <h4>Grand Total :</h4> */}
             </div>
-        
         </div>
     );
 };
