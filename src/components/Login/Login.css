@@ -1,0 +1,29 @@
+.form-container {
+    width: 500px;
+    height: 600px;
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.form-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #2A414F;
+    text-align: center;
+}
+
+.input-group label {
+    display: block;
+}
+
+.input-group input {
+    width: 415px;
+    height: 35px;
+    
+}
