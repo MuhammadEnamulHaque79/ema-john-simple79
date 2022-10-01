@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Login.css';
 
 const Login = () => {
@@ -6,11 +7,23 @@ const Login = () => {
         <div className='form-container'>
             <div>
                 <h3 className='form-title'>Login</h3>
-                <div className="input-group">
-                    <label htmlFor="email">Email</label>
-                    <input type="email" name="email" id="" />
-                    <label htmlFor="password">Password</label>
-                    <input type="password" name="password" id="" />
+                <form>
+                    <div className="input-group">
+                        <label htmlFor="email">Email</label>
+                        <input type="email" name="email" id="" required />
+
+                    </div>
+                    <div className="input-group">
+                        <label htmlFor="password">Password</label>
+                        <input type="password" name="password" id="" required />
+                    </div>
+                    <input className='form-submit' type="submit" value="Login" />
+                </form>
+                <p>New to Ema-John? <Link className='form-link' to='/signup'>Create an Account</Link></p>
+                <div className='line-divider'>
+                    <div>______________</div>
+                    <p className='divider'>or</p>
+                    <div>_______________</div>
                 </div>
             </div>
         </div>
