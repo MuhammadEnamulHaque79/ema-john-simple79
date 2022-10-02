@@ -8,6 +8,8 @@
 7.Attatch eventhandler and handleFormsubmit handler;
 8.yarn add react-firebase-hooks(install);
 9.useCreateUserWithEmailAndPassword(auth) from react-firebase-hooks;
-10.
+10.If user is created to redirected them to desire pages;
+11.signInWithEmailAndPassword for signIn;
+12.
 
  */
