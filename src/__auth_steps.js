@@ -13,3 +13,11 @@
 12.
 
  */
+// react-bootstrap added this project;//
+/**Firebase Hosting steps;
+ 1.npm install -g firebase-tools;(just one time for your pc);
+ 2.firebase login;(just one time for your pc);
+ 3.yarn run build(every time you want to deploy)
+ 4.firebase init;(one time for each project);
+ 5.firebase deploy;(every time you want to deploy);
+*/
